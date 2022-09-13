@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+.a{
+    position:sticky;
+    top:0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0;
+    overflow: hidden;
+    background-color: white;
+    width: auto;
+
+
+}
+
+img {
+    width: 8%;
+    height: 100%;
+}
+
+li {
+    display: inline;
+    padding: 0px 20px 0 20px;
+
+}
+
+.b {
+    margin-top: 20px;
+
+    float: right;
+}
+
+i {
+    padding-right: 10px;
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\training"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\bootstrap_example"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "training"
+	}
+}

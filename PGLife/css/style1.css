@@ -1,0 +1,295 @@
+
+body{
+    width:100%;
+    padding: 0%;
+    margin:0%;
+}
+    
+    
+*{
+    box-sizing: border-box;
+}
+
+.aa1 {
+    border: none 1px black;
+    height: 1200px;
+    display: flex;
+    flex-direction: column;
+   
+
+}
+a:link{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+a:active{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+.aa{
+    border: red 1px black;
+    height: 80px;
+    width: auto;
+   
+    overflow: hidden;
+    top: 0px;
+}
+
+.a1 {
+    border: none 1px black;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    overflow: hidden;
+    top: 0px;
+
+}
+
+
+.u1 {
+    list-style-type: none;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: white;
+    width: auto;
+}
+
+
+.i1 {
+    float: left;
+    height: 70%;
+    width: auto;
+    margin: 10px 0px 5px 0px;
+}
+
+.b {
+    float: right;
+}
+
+i {
+    padding-right: 10px;
+}
+
+li {
+    display: inline;
+    padding: 0px 20px 0 20px;
+    margin: 25px 0px 0 0px;
+
+}
+
+.a21 {
+    color: rgb(12, 13, 13);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    top:50%;
+    left:50%;
+    bottom: 50%;
+    transform: translate(-50%, -50%);
+    margin:0;
+}
+
+.a22 {
+    background-color: rgba(15, 14, 14, 0.5);
+  
+    top: 0px;
+    left: 0px;
+    height: 450px;
+    width: 100%;
+}
+.r4{
+    position:relative;
+
+    top:50%;
+
+    left:30%;
+    display: inline;
+    
+}
+input[type=Search]{
+   
+    width:35%;
+    height:40px;
+    padding:0;
+    margin:0;
+    float: left;
+    border-radius: 5px 0px  0px 5px;
+ 
+}
+.icon1{
+
+    padding: 10px;
+    margin:0px;
+    height: 40px;
+    width: 40px;
+    color:white;
+    float: left;
+    background-color: rgb(118, 127, 133);
+    border-left: none;
+    border-radius: 0px 5px 5px 0px;  
+    
+
+
+} 
+
+.a3 {
+
+    border: none 1px rgb(31, 29, 29);
+    height: 470px;
+
+
+}
+
+.a31 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 30px 0 20px 0;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.ex {
+    border: none 1px black;
+    padding:50px 250px 70px 300px;
+    height: 320px;
+    position: relative;
+    top: 20px;
+    
+
+}
+
+.a32 {
+    border: solid 1px black;
+    border-radius: 100%;
+    float:left;
+    height:180px;
+    margin:20px;
+    padding: 20px;
+    
+   
+}
+
+
+
+.i2{
+    height:100%;
+    width:auto;
+    object-fit: fill;
+
+}
+.a32{
+    box-shadow: 0px 0px 3px 2px rgba(119, 121, 122, 0.5);
+  }
+
+.a4 {
+    border: none 1px black;
+    height: 200px;
+    
+    
+
+}
+.u2{
+    list-style-type:none;
+    padding: 0%;
+    color: aliceblue;   
+}
+.l2{
+    position: relative;
+    top:30px;
+    left:22%;
+    padding:55px;
+    
+    
+}
+.p1{
+    text-align:center;
+    color: aliceblue;
+    position:relative;
+    top:100px;    
+}
+
+/* form */
+
+h3{
+    padding:10px 10px 10px 0;
+}
+.ne{
+    margin: 20px;
+    
+}
+input[type=text], input[type=password], input[type=tel]{
+    border-style: solid;
+    width:100%;
+    margin:0px;
+    padding:10px;
+    overflow: hidden;
+    outline: none;
+    border-color:rgb(213, 215, 215)  ;
+    object-fit: contain;
+    border-radius: 0px 5px 5px 0px;    
+
+}
+
+.icon{
+    padding: 10px;
+    
+    border-radius: 5px 0px  0px 5px;
+    background:rgb(213, 215, 215) ;
+    color:rgb(6, 5, 5);
+    margin:0px;
+    object-fit: contain;
+   
+    
+
+}
+.ek{ 
+    
+    
+    width:100%;
+    padding:0; 
+    margin:0px;
+    display: flex;
+    flex-direction:row;
+
+}
+.btn{
+    background-color: rgb(61, 193, 182);
+    width:100%;
+    border-radius: 5px;
+    padding:5px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+    margin-bottom: 10px;
+    
+    
+}
+.btn:hover{
+    opacity:0.7;
+}
+.te1{
+   height:100px;
+   width: auto;
+   background-color: rgb(223, 223, 223);
+
+}
+.te{
+    
+    text-align: center;
+    position:relative; 
+    top:40px;
+    
+    
+}
